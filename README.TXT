@@ -1,3 +1,7 @@
+<b>This directory is made to show the github repositry for the CSY1018 Web Development AS1 Resit at the Unversity of Northampton</b>
+
+Created by: Ali Youssef
+
 Hours spent:
 Its hard to say but a rough estimate would be 10-15 hours, possibly more.
 
