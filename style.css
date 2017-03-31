@@ -1,0 +1,154 @@
+body {
+    font:normal 12px/1.6em Arial, Helvetica, sans-serif;
+	color:#2a3845;
+	margin:0;
+	padding:0;
+	background:#FFFFFF;
+}
+
+#wrapper {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+#collectionwrapper {
+  position: absolute;
+  width: 100%;
+  height: 120%;
+}
+
+#header {
+	margin:0 1px;
+}
+
+#main-content {
+	margin:0 auto;
+}
+
+#main-image {
+	text-align:center;
+}
+
+#left-column {
+	width:300px;
+	padding: 30px 30px;
+	float:left;
+}
+
+#right-column {
+	width:270px;
+	float:right;
+}
+
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #efefef;
+  text-align: left;
+}
+
+
+#nav {
+	background:#121213;
+	padding:10px 20px;
+	text-align: left;
+	color:#ffffff;
+}
+
+#nav a {
+	margin: 0 10px;
+}
+
+#nav a:visited, #nav a:link {
+	text-decoration:none;
+	color:#f5eef0;
+}
+
+#nav a:hover {
+	text-decoration:underline;
+	color:#f6dde3;
+}
+
+#title {
+	margin-bottom:20px;
+	font:normal 18px Georgia, serif;
+	color:#000000;
+}
+
+#profile{
+  padding:10px 20px;
+  width:200px;
+  height:200px;
+}
+
+#centerimage{
+  width: 400px;
+  height: 200px;
+  padding-top: 10px;
+}
+
+#sofiauni-image{
+  width: 400px;
+  height: 200px;
+}
+
+p {
+	margin:-10px;
+	padding:10px;
+}
+
+a:visited, a:link {
+	color:rgb(0, 0, 0);
+	text-decoration:underline;
+	background:none;
+}
+
+a:hover {
+	color: rgb(0, 0, 0);
+	text-decoration:none;
+	background:none;
+}
+
+h1 {
+	color:#100004;
+	margin:0 0 10px;
+	padding-bottom:10px;
+	font:normal 17px Georgia, serif;
+	border-bottom:1px solid #efece7;
+}
+
+h2 {
+	color:#100004;
+	margin:20px 0 10px;
+	padding-bottom:10px;
+	font:normal 17px Georgia, serif;
+	border-bottom:1px solid #efece7;
+}
+
+h3 {
+	color:#100004;
+	margin:10px 0;
+	padding-bottom:10px;
+	font:bold 14px Arial, Helvetica, sans-serif;
+	border-bottom:1px solid #efece7;
+}
+
+.infobox1 {
+	background:#f7f7f7;
+	border:1px solid #f0e9eb;
+	padding:15px;
+}
+
+.infobox2 {
+  background:#f7f7f7;
+	border:1px solid #f0e9eb;
+	padding:15px;
+}
+
+.message {
+    width: 300px;
+    height: 150px;
+}
