@@ -13,7 +13,7 @@ body {
 #collectionwrapper {
   position: absolute;
   width: 100%;
-  height: 120%;
+  height: 105%;
 }
 #main-content {
 	margin:0 auto;
@@ -61,6 +61,14 @@ body {
 	font:normal 18px Georgia, serif;
 	color:#000000;
 }
+#collection-title{
+  margin-bottom:20px;
+  text-align: center;
+  padding-top: 20px;
+  text-decoration: underline;
+  font:normal 18px Georgia, serif;
+  color:#000000;
+}
 #profile{
   padding:10px 20px;
   width:200px;
@@ -69,11 +77,26 @@ body {
 #centerimage{
   width: 400px;
   height: 200px;
-  padding-top: 10px;
 }
 #sofiauni-image{
   width: 400px;
   height: 200px;
+}
+#theater-image{
+  width: 400px;
+  height: 200px;
+}
+#serdica-image{
+  width: 400px;
+  height: 200px;
+}
+.collection-images{
+    width: 400px;
+    height: 200px;
+    padding-top: 10px;
+    padding-left: 9%;
+    padding-bottom: 15px;
+    float: left;
 }
 
 p {
@@ -121,12 +144,13 @@ h3 {
 	background:#f7f7f7;
 	border:1px solid #f0e9eb;
 	padding:15px;
+	width: 370px;
 }
 
 .infobox2 {
-  background:#f7f7f7;
-	border:1px solid #f0e9eb;
 	padding:15px;
+  width: 370px;
+  padding-left: 35%
 }
 
 .message {
