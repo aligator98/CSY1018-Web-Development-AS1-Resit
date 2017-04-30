@@ -148,8 +148,10 @@ h3 {
 }
 
 .infobox2 {
+	background:#f7f7f7;
+	border:1px solid #f0e9eb;
 	padding:15px;
-  width: 370px;
+	width: 370px;
 }
 .infobox3 {
 	padding:15px;
