@@ -150,8 +150,13 @@ h3 {
 .infobox2 {
 	padding:15px;
   width: 370px;
-  padding-left: 35%
 }
+.infobox3 {
+	padding:15px;
+  width: 370px;
+ padding-left: 35%
+}
+
 
 .message {
     width: 300px;
